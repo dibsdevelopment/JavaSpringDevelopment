@@ -1,0 +1,82 @@
+Project to do list
+Note it no all the different steps to implement the previous projects details implementation.
+
+Code code, small main function and then implement small function.
+Cord code small stool procedure in Oracle.
+Implement JDBC call to invoke the store, procedure and see the results.
+Function two.
+Implement small Java prototype with spring boat connecting to the go and cashing coherence cashing off reading and writing Java class subjects.
+Function for.
+Implement small functions.
+Large functions for give lot of solar cube issues.
+Keep back up of the codes every 2 to 3 days.
+Function six.
+
+
+Create frequently used commands list.
+Autosys command
+Java installation commands.
+She Skift commands shell scriptcommands
+All development QA production service list
+
+
+Learn credit risk where rules.
+Create autos dependency charts.
+During home, travel back, returning to do list on iPhone.
+Always try to get up in the morning for good health and do weightlifting and jogging for 30 minutes.
+Function five.
+Create autosys dependency chart.
+Create batch process shell scripts complete flow.
+Test the auto sys job in the UVT environment.
+Create in database scripts to delete all records before running the autosys  parents scripts.
+Run  complete autosys parent scripts.
+Run the batch process through eclipse.
+Create exception, like edit exceptions  arithmetic exceptions and the end of the batch process in our to understand the flow.
+simulate errors in the flow.
+Create test cases for complex basis code earlier.
+Create generic test cases for each scenarios, such as clearing database store block, stored procedures, eat, and lift Shabu Goa try to use.
+Connecting to the cash and saving and persisting
+
+Find out all the tables, skimmer, schema, schema, and definition of the columns of the table.
+
+
+Also write down project to release during going to office still route 22 since it is a local roads.
+Watch Raj EWS tutorials during returning back to home from office.
+
+Try to get the project permissions for the oasis
+
+
+-----------Setup GitHub Username and password into Jenkins
+Now we add one more username and password for GitHub.
+
+Goto -> Jenkins -> Manage Jenkins -> Manage Credentials -> Stored scoped to jenkins -> global -> Add Credentials
+
+Dashboard -> Credentials -> System -> Global credentials (unrestricted)
+    Global credentials (unrestricted)
+	[OPTIONS for New credentials] 
+	Kind = Username with pasword
+	Username = dibs.biswas@gmail.com
+	Password = sukla1234   ( Docker Hub password )
+	ID     = GIT_HUB_CREDENTIALS
+	Description = github password
+
+---------------------------------------------------------------------
+https://jhooq.com/aws-kubernetes-jenkins-pipeline/  EX EX
+---------------------------------------------------------------------
+
+…or create a new repository on the command line
+echo "# WealthMgr-Compute-CoreEngine" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dibsdevelopment/WealthMgr-Compute-CoreEngine.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/dibsdevelopment/WealthMgr-Compute-CoreEngine.git
+git branch -M main
+git push -u origin main
+
+https://github.com/dibsdevelopment/WealthMgr-Compute-CoreEngine.git
+JavaSpringDevelopment
+
